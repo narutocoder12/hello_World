@@ -2,4 +2,4 @@
 <?php 
   
   
-  echo "Hi"; ?>
+  echo "hi, hello"; ?>
